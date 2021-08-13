@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProjetoCompilador.iml" filepath="$PROJECT_DIR$/ProjetoCompilador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiLanguage2.iml" filepath="$PROJECT_DIR$/IsiLanguage2.iml" />
     </modules>
   </component>
 </project>

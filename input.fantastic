@@ -1,12 +1,19 @@
-abc123
+programa
 
-1234 < 50
+  numero a, b;
+  texto  t1;
 
-aaa<
+  leia(a);
+  leia(b);
 
-123abc
+  a = 1 + 2 * 3 / b;
 
-leonardo
-palavra
-teste
 
+  se ( a > b ) {
+     escreva (a);
+  }
+  senao {
+     escreva (b);
+  }
+
+fimprog;

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="/FantasticLanguage2/src"/>
-	<classpathentry exported="true" kind="lib" path="/FantasticLanguage2/antlr-4.7.1-complete.jar"/>
-	<classpathentry kind="output" path="/out/production/FantasticLanguage2"/>
-</classpath>
